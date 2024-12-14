@@ -1,1 +1,1 @@
-# AnalysisAndModification_OfSolutionsToTheDetectionProblem
+# Modification_OfSolutionsToDetection
