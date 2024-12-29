@@ -38,9 +38,18 @@ git clone https://github.com/VadosikRRR/Modification_OfSolutionsToDetection.git
 #### Step 3: install kaggle and send kaggle.json.
 Open ModificationOfSolutionsToDetection in notebook folder.
 Run the first cell.
-##### On windows:
+
 Move kaggle.json
+#### On windows:
 ```
 Your_disk:\users\Your_user\.kaggle
 ```
+#### On linux:
 
+
+
+#### On macOS
+
+
+
+#### Step 4: 
