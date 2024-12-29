@@ -34,7 +34,7 @@ Create new notebook and import "ModificationOfSolutionsToDetection.ipynb".
 Add dataset "Animals Detection Images Dataset", URL = "https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset".
 Run the first cell (for kaggle). After run all after three.
 
-### On Google colab:
+### On google colab:
 
 #### Step 1: Download kaggle.json.
 
@@ -68,7 +68,7 @@ git clone https://github.com/VadosikRRR/Modification_OfSolutionsToDetection.git
 
 #### Step 3: install kaggle and send kaggle.json.
 Open ModificationOfSolutionsToDetection in notebook folder.
-Run the third cell.
+Run the third cell (for computer).
 It will give you an error. Move kaggle.json to the specified path.
 
 #### Step 4: Run notebook
