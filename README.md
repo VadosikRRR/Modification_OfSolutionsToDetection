@@ -22,10 +22,41 @@
 
 ## Guide
 
+It is recommended to use kaggle with GPU, google colab with GPU or computer with GPU.
+
 ### How to install and run
 
-#### Step 1: Create an account on kaggle and download kaggle.json.
-- Create an account on kaggle.
+### On kaggle:
+
+- Create or sing in an account on kaggle.
+- Download "ModificationOfSolutionsToDetection.ipynb" from notebook folder in GitHub.
+- Create new notebook and import "ModificationOfSolutionsToDetection.ipynb".
+- Add dataset "Animals Detection Images Dataset", URL = "https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset".
+- Run the first cell (for kaggle). After run all after three.
+
+### On Google colab:
+
+#### Step 1: Download kaggle.json.
+
+- Create or sign in an account on kaggle.
+- Go to the "settings" section.
+- Find "Api" and click "Create new token".
+
+#### Step 2: Notebook preparation.
+
+- Create or sing in account on google.
+- Download "ModificationOfSolutionsToDetection.ipynb" from notebook folder in GitHub.
+- Create new notebook and import "ModificationOfSolutionsToDetection.ipynb".
+
+#### Step 3: Run notebook.
+
+- Run the second cell (for google colab). After run all after three.
+
+### On computer:
+
+#### Step 1: Download kaggle.json.
+
+- Create or sign in an account on kaggle.
 - Go to the "settings" section.
 - Find "Api" and click "Create new token".
 
