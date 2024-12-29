@@ -29,26 +29,20 @@ It is recommended to use kaggle with GPU, google colab with GPU or computer with
 ### On kaggle:
 
 Create or sing in an account on kaggle.
-Download "ModificationOfSolutionsToDetection.ipynb" from notebook folder in GitHub.
-Create new notebook and import "ModificationOfSolutionsToDetection.ipynb".
+Download `ModificationOfSolutionsToDetection.ipynb` from notebook folder in GitHub.
+Create new notebook and import `ModificationOfSolutionsToDetection.ipynb`.
 Add dataset "Animals Detection Images Dataset", URL = "https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset".
 Run the first cell (for kaggle). After run all after three.
 
 ### On google colab:
 
-#### Step 1: Download kaggle.json.
-
-Create or sign in an account on kaggle.
-Go to the "settings" section.
-Find "Api" and click "Create new token".
-
-#### Step 2: Notebook preparation.
+#### Step 1: Notebook preparation.
 
 Create or sing in account on google.
-Download "ModificationOfSolutionsToDetection.ipynb" from notebook folder in GitHub.
-Create new notebook and import "ModificationOfSolutionsToDetection.ipynb".
+Download `ModificationOfSolutionsToDetection.ipynb` from notebook folder in GitHub.
+Create new notebook and import `ModificationOfSolutionsToDetection.ipynb`.
 
-#### Step 3: Run notebook.
+#### Step 2: Run notebook.
 
 Run the second cell (for google colab). After run all after three.
 
@@ -67,9 +61,9 @@ git clone https://github.com/VadosikRRR/Modification_OfSolutionsToDetection.git
 ```
 
 #### Step 3: install kaggle and send kaggle.json.
-Open ModificationOfSolutionsToDetection in notebook folder.
+Open `ModificationOfSolutionsToDetection.ipynb` in notebook folder.
 Run the third cell (for computer).
-It will give you an error. Move kaggle.json to the specified path.
+It will give you an error. Move `kaggle.json` to the specified path.
 
 #### Step 4: Run notebook
 Run the third cell again. After run all after three.
