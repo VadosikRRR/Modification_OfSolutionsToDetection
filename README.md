@@ -28,37 +28,37 @@ It is recommended to use kaggle with GPU, google colab with GPU or computer with
 
 ### On kaggle:
 
-- Create or sing in an account on kaggle.
-- Download "ModificationOfSolutionsToDetection.ipynb" from notebook folder in GitHub.
-- Create new notebook and import "ModificationOfSolutionsToDetection.ipynb".
-- Add dataset "Animals Detection Images Dataset", URL = "https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset".
-- Run the first cell (for kaggle). After run all after three.
+Create or sing in an account on kaggle.
+Download "ModificationOfSolutionsToDetection.ipynb" from notebook folder in GitHub.
+Create new notebook and import "ModificationOfSolutionsToDetection.ipynb".
+Add dataset "Animals Detection Images Dataset", URL = "https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset".
+Run the first cell (for kaggle). After run all after three.
 
 ### On Google colab:
 
 #### Step 1: Download kaggle.json.
 
-- Create or sign in an account on kaggle.
-- Go to the "settings" section.
-- Find "Api" and click "Create new token".
+Create or sign in an account on kaggle.
+Go to the "settings" section.
+Find "Api" and click "Create new token".
 
 #### Step 2: Notebook preparation.
 
-- Create or sing in account on google.
-- Download "ModificationOfSolutionsToDetection.ipynb" from notebook folder in GitHub.
-- Create new notebook and import "ModificationOfSolutionsToDetection.ipynb".
+Create or sing in account on google.
+Download "ModificationOfSolutionsToDetection.ipynb" from notebook folder in GitHub.
+Create new notebook and import "ModificationOfSolutionsToDetection.ipynb".
 
 #### Step 3: Run notebook.
 
-- Run the second cell (for google colab). After run all after three.
+Run the second cell (for google colab). After run all after three.
 
 ### On computer:
 
 #### Step 1: Download kaggle.json.
 
-- Create or sign in an account on kaggle.
-- Go to the "settings" section.
-- Find "Api" and click "Create new token".
+Create or sign in an account on kaggle.
+Go to the "settings" section.
+Find "Api" and click "Create new token".
 
 #### Step 2: Clone the repository:
 
@@ -68,19 +68,8 @@ git clone https://github.com/VadosikRRR/Modification_OfSolutionsToDetection.git
 
 #### Step 3: install kaggle and send kaggle.json.
 Open ModificationOfSolutionsToDetection in notebook folder.
-Run the first cell.
+Run the third cell.
+It will give you an error. Move kaggle.json to the specified path.
 
-Move kaggle.json
-#### On windows:
-```
-Your_disk:\users\Your_user\.kaggle
-```
-#### On linux:
-
-
-
-#### On macOS
-
-
-
-#### Step 4: 
+#### Step 4: Run notebook
+Run the third cell again. After run all after three.
