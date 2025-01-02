@@ -84,4 +84,11 @@ Run the third cell again. After run all after three.
 
 ## Results
 
-![Table of results](results/table_of_results.jpg)
+Решение | Precision | Recall | mAP50 | mAP5095
+--- | --- | --- | --- | ---
+YOLOV8 | 0.64 | 0.56 | 0.62 | 0.51
+--- | --- | --- | --- | ---
+YOLO11 (64) | 0.60 | 0.64 | 0.64 | 0.55
+--- | --- | --- | --- | ---
+YOLO11 (96) | 0.61 | 0.64 | 0.64 | 0.55
+--- | --- | --- | --- | ---
