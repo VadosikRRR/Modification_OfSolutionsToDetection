@@ -84,3 +84,4 @@ Run the third cell again. After run all after three.
 
 ## Results
 
+![Table of results](results/table_of_results.jpg)
