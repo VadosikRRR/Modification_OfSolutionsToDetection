@@ -1,5 +1,19 @@
 # Modification of solutions to the detection problem
 
+## Description
+
+This project is a modification of existing solutions on a [dataset](https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset "Link to the dataset").
+
+### In notebook:
+- `ModificationOfSolutionsToDetection.ipynb`
+
+### In results
+- `NAdam_10_epochs_64_640`
+- `NAdam_10_epochs_64_960`
+- `NAdam_10_epochs_96_640`
+- `NAdam_50_epochs_64_640`
+- `NAdam_50_epochs_64_640`
+
 ## Requirements
 
 - numpy               >=1.23.0
